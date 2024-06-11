@@ -1,0 +1,18 @@
+#toast-div{
+    display: none;
+    position: fixed;
+    right:10px;
+    top:4.6rem;
+    background-color:white;
+    z-index: 2;
+    padding:1rem;
+    padding-right: 0;
+    border-radius: 0.4rem;
+    font-size: 1.2rem;
+    font-family: Inter;
+    border:none;
+    box-shadow: 2px 2px 8px 3px lightgray;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
